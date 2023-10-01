@@ -21,7 +21,7 @@
 title: Ethnographische Annotation
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Webseite zur Masterarbeit 
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ethno-annotation.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
