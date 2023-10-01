@@ -16,12 +16,15 @@ image: /tagsetdeail.png
  4. ##### Die gewonnenen Daten der ethnograpischen Annotation
 
 
-### 1.  Das Ethno-Tagset 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 1.  Das Ethno-Tagset 
 
-![Tagset](/tagsetdetail.png)
+ Die Abbildung zeigt das **Ethno**-Tagset. Dieses wurde während der Annotation stetig angepasst, indem es um weitere Tags und Subtags erweitert wurden.
 
-##### 
+![Tagset](/tagsetdetail.png "Ethno-Tagset") 
+
+
+
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
