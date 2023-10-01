@@ -13,7 +13,6 @@ image: /tagsetdeail.png
  1. ##### Das Ethno-Tagset
  2. ##### Die Auswertung des Annotationsvorgehens
  3. ##### Die inhaltliche Analyse
- 4. ##### Die gewonnenen Daten der ethnograpischen Annotation
 
 
 # 1.  Das Ethno-Tagset 
@@ -23,10 +22,25 @@ image: /tagsetdeail.png
 ![Tagset](/tagsetdetail.png "Ethno-Tagset") 
 
 
+# 2. Die Auswertung des Annotationsvorgehens
+
+Hier werden die wichtigsten Erkenntnisse des Annotationsvorgangs zusammengefasst.
+
+Während der Annotation wurde die folgenden Anzahl an Tags und Annotationen im Reisebericht annotiert.
+
+Tags | Annotationen | 
+-------- | -------- | 
+53  | 1166  | 
 
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+llllll
+
+
+![Tagset](/TagPathliste.png "Ethno-Tagset") 
+
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
