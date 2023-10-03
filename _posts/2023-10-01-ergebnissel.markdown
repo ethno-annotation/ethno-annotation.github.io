@@ -53,7 +53,7 @@ Tags | Annotationen |
 
 ## 3. Die inhaltliche Analyse
 
-Um die Annotation des Reiseberichts dazustellen, werden in einem seperaten Beitrag drei **[Annotationsbeispiele](https://ethno-annotation.github.io//jekyll/update/2023/09/28/annotationsbeispiel.html)** abgebildet. 
+Um die Annotation des Reiseberichts dazustellen, werden in einem separaten Beitrag zwei **[Annotationsbeispiele](https://ethno-annotation.github.io//jekyll/update/2023/09/28/annotationsbeispiel.html)** abgebildet. 
 
 Die inhaltliche Analyse der Annotation ergab, dass die entstanden Annotationskategorien (siehe 1.) maßgeblich zur Operationaliserung von Forsters ethnographischem Handeln beigetragen haben. Somit konnte an den ausgewählten Textstellen nachgewiesen werden, dass Forster ethnographisch gehandelt hat. Ebenfalls wurden die Grenzen seines ethnographischen Handelns sichtbar.  
 
