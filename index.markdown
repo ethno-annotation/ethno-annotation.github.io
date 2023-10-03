@@ -12,6 +12,6 @@ Durch fortschreitende Digitalisierung werden digitale Editionen stetig wichtiger
 
 #### - Welche Annotationskategorien und Parameter braucht es, um eine digitale Edition bzw. eine Annotation mit einem ethnographischen Bezug zu erstellen? 
 
-Die einzelnen Schritte auf dem Weg einer ethograpischen digitalen Edition wurden im **[Poster](  https://ethno-annotation.github.io/poster/)** der Masterarbeit dargestellt. Dabei konnte lediglich der Weg für die ethnograpische Annotation, als Teilschritt bei dem Erstellen einer ethnographsichen digitalen Edition, aufgezeigt werden. 
+Die einzelnen Schritte auf dem Weg einer ethnograpischen digitalen Edition wurden im **[Poster](  https://ethno-annotation.github.io/poster/)** der Masterarbeit dargestellt. Dabei konnte lediglich der Weg für die ethnograpische Annotation, als Teilschritt bei dem Erstellen einer ethnographsichen digitalen Edition, aufgezeigt werden. 
 
  **Die Masterarbeit wurde von Viviane El-Garrahi im Rahmen des Masterstudiums *Digitale Methodik in den Geistes- und Kulturwissenschaften* verfasst.**

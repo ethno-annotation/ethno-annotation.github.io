@@ -16,6 +16,8 @@ image: /tagsetdeail.png
  1. #### Das Ethno-Tagset
  2. #### Die Auswertung des Annotationsvorgehens
  3. #### Die inhaltliche Analyse
+ 4. #### **[Leitfaden](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:13e6cd0e-19bb-4e63-b594-5ae3ea24e23a)** zur Kennzeichnung der Annotationskategorien im Text 
+
 
 
 ## 1.  Das Ethno-Tagset 
@@ -26,7 +28,7 @@ image: /tagsetdeail.png
 
 ![Tagset](/tagsetdetail.png "Ethno-Tagset") 
 
-    ##### Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
+    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 
@@ -47,8 +49,7 @@ Tags | Annotationen |
 
 ![Tagset](/TagPathliste.png "Tags") 
 
-
-#### Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
+    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 ## 3. Die inhaltliche Analyse
@@ -87,6 +88,6 @@ Die inhaltliche Analyse der Annotation ergab, dass die entstanden Annotationskat
 
 
 
-##### Quellen: 
+**Quellen:** 
 
 Gius, Evelyn u.a. (2023). CATMA (7.0.0). **[https://catma.de/](https://catma.de/)** CATMA (zuletzt abgerufen: 30.09.2023).

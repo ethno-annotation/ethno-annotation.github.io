@@ -14,7 +14,7 @@ Die Tags und Subtags: **verhalten**, *Sprache*, **Gabe**, **handel**, **Forsters
 
 ![Textstelle 1](/Textstelle1.png "Textstelle 1") 
 
-##### Abb. 1 Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
+    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 
@@ -26,12 +26,10 @@ Die Tags und Subtags: **verhalten**, *Sprache*, **Gabe**, **handel**, **Forsters
 Die Tags und Subtags: *Nation*, **zeremonie/ritual**, **aussehen** sowie *Interpretation*, **Vergleich**, *Ethnische Gruppe* wurden in diesem Beispiel annotiert. 
 
 
-![Textstelle 2](/Textstelle2.png "Textstelle 1") 
+![Textstelle 2](/Textstelle2.png "Textstelle 1")
 
+    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023) 
 
-
-
-##### Abb. 2 Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 
