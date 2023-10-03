@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-03T12:53:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ethnographische Annotation</title><subtitle></subtitle><entry><title type="html">Ergebnisse</title><link href="http://localhost:4000/jekyll/update/2023/10/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Ergebnisse" /><published>2023-10-01T10:00:33+02:00</published><updated>2023-10-01T10:00:33+02:00</updated><id>http://localhost:4000/jekyll/update/2023/10/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/01/welcome-to-jekyll.html"><![CDATA[<p>Was genau hat die ethnographische Annotation ergeben? In diesem Post werden die Ergebnisse erläutert.</p>
+
+<p><strong>Folgende Punkte zählen zu den Ergebnissen der Masterarbeit:</strong></p>
+
+<ol>
+  <li>
+    <h5 id="das-ethno-tagset">Das Ethno-Tagset</h5>
+  </li>
+  <li>
+    <h5 id="die-auswertung-des-annotationsvorgehens">Die Auswertung des Annotationsvorgehens</h5>
+  </li>
+  <li>
+    <h5 id="die-inhaltliche-analyse">Die inhaltliche Analyse</h5>
+  </li>
+</ol>
+
+<h1 id="1--das-ethno-tagset">1.  Das Ethno-Tagset</h1>
+
+<p>Die Abbildung zeigt das <strong>Ethno</strong>-Tagset. Dieses wurde während der Annotation stetig angepasst, indem es um weitere Tags und Subtags erweitert wurden.</p>
+
+<p><img src="/tagsetdetail.png" alt="Tagset" title="Ethno-Tagset" /></p>
+
+<h1 id="2-die-auswertung-des-annotationsvorgehens">2. Die Auswertung des Annotationsvorgehens</h1>
+
+<p>Hier werden die wichtigsten Erkenntnisse des Annotationsvorgangs zusammengefasst.</p>
+
+<p>Während der Annotation wurde die folgenden Anzahl an Tags und Annotationen im Reisebericht annotiert.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tags</th>
+      <th>Annotationen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>53</td>
+      <td>1166</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>llllll</p>
+
+<p><img src="/TagPathliste.png" alt="Tagset" title="Ethno-Tagset" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Was genau hat die ethnographische Annotation ergeben? In diesem Post werden die Ergebnisse erläutert.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tagsetdeail.png" /><media:content medium="image" url="http://localhost:4000/tagsetdeail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Annotationsbeispiel</title><link href="http://localhost:4000/jekyll/update/2023/09/28/annotationsbeispiel.html" rel="alternate" type="text/html" title="Annotationsbeispiel" /><published>2023-09-28T10:00:33+02:00</published><updated>2023-09-28T10:00:33+02:00</updated><id>http://localhost:4000/jekyll/update/2023/09/28/annotationsbeispiel</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/09/28/annotationsbeispiel.html"><![CDATA[<p>Annotationsbeispiel Textstelle</p>
+
+<h1 id="kontext">Kontext</h1>
+
+<p><img src="/.png" alt="Textstelle" title="Textstelle 1" /></p>
+
+<h1 id="2-was-wurde-annotiert">2. Was wurde annotiert?</h1>
+
+<p><img src="/.png" alt="Tagset" title="Ethno-Tagset" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Annotationsbeispiel Textstelle]]></summary></entry></feed>
