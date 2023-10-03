@@ -34,10 +34,11 @@ Tags | Annotationen |
 
 
 
-llllll
-
 
 ![Tagset](/TagPathliste.png "Ethno-Tagset") 
+
+
+
 
 
 
