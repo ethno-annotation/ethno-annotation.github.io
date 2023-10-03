@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-03T16:17:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ethnographische Annotation</title><subtitle></subtitle><entry><title type="html">Ergebnisse</title><link href="http://localhost:4000/jekyll/update/2023/10/01/ergebnissel.html" rel="alternate" type="text/html" title="Ergebnisse" /><published>2023-10-01T10:00:33+02:00</published><updated>2023-10-01T10:00:33+02:00</updated><id>http://localhost:4000/jekyll/update/2023/10/01/ergebnissel</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/01/ergebnissel.html"><![CDATA[<p><strong>Was hat die ethnographische Annotation des Reiseberichts ergeben?</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-03T17:31:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ethnographische Annotation</title><subtitle></subtitle><entry><title type="html">Ergebnisse</title><link href="http://localhost:4000/jekyll/update/2023/10/01/ergebnissel.html" rel="alternate" type="text/html" title="Ergebnisse" /><published>2023-10-01T10:00:33+02:00</published><updated>2023-10-01T10:00:33+02:00</updated><id>http://localhost:4000/jekyll/update/2023/10/01/ergebnissel</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/01/ergebnissel.html"><![CDATA[<p><strong>Was hat die ethnographische Annotation des Reiseberichts ergeben?</strong></p>
 
 <p><br /> Für die ethnographische Annotation wurde das Tool <strong><a href="https://catma.de">Catma</a></strong> verwendet, welches darauf ausgerichtet ist nutzerorientierte Textannotationen und Textanalysen zu ermöglichen.</p>
 
@@ -27,10 +27,11 @@
 
 <p><img src="/tagsetdetail.png" alt="Tagset" title="Ethno-Tagset" /></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
-</code></pre></div></div>
+<blockquote>
+  <p>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)</p>
+</blockquote>
 
-<p>Im weiteren Annotationsverlauf entstanden zudem die Tags <strong>Erzählung/Bericht</strong>, <strong>Forsters-Subjektivität</strong> und <strong>Vergleich</strong>.</p>
+<p><br /> Im weiteren Annotationsverlauf entstanden zudem die Tags <strong>Erzählung/Bericht</strong>, <strong>Forsters-Subjektivität</strong> und <strong>Vergleich</strong>.</p>
 
 <h2 id="2-die-auswertung-des-annotationsvorgehens">2. Die Auswertung des Annotationsvorgehens</h2>
 
@@ -51,16 +52,17 @@
   </tbody>
 </table>
 
-<p><br /> Die nächste Abbildung zeigt das Query <em>Taglist</em> und gibt einen Überblick über die 10 am häufigsten verwendeten Tags während der Annotation. Jenes Query wurde mit Catma abgefragt. Die Abbildung zeigt daher die Benutzeroberfläche von Catma im Bereich des Analyse-Funktion. &lt;/br&gt;</p>
+<p><br /> Die nächste Abbildung zeigt das Query <em>Taglist</em> und gibt einen Überblick über die 10 am häufigsten verwendeten Tags während der Annotation. Jenes Query wurde mit Catma abgefragt. Die Abbildung zeigt daher die Benutzeroberfläche von Catma im Bereich des Analyse-Funktion.</p>
 
 <p><img src="/TagPathliste.png" alt="Tagset" title="Tags" /></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
-</code></pre></div></div>
+<blockquote>
+  <p>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)</p>
+</blockquote>
 
 <h2 id="3-die-inhaltliche-analyse">3. Die inhaltliche Analyse</h2>
 
-<p>Um die Annotation des Reiseberichts dazustellen, werden in einem seperaten Beitrag verschiedene Annotationsbeispiel abgebildet.</p>
+<p>Um die Annotation des Reiseberichts dazustellen, werden in einem seperaten Beitrag drei <strong><a href="https://ethno-annotation.github.io//jekyll/update/2023/09/28/annotationsbeispiel.html">Annotationsbeispiele</a></strong> abgebildet.</p>
 
 <p>Die inhaltliche Analyse der Annotation ergab, dass die entstanden Annotationskategorien (siehe 1.) maßgeblich zur Operationaliserung von Forsters ethnographischem Handeln beigetragen haben. Somit konnte an den ausgewählten Textstellen nachgewiesen werden, dass Forster ethnographisch gehandelt hat. Ebenfalls wurden die Grenzen seines ethnographischen Handelns sichtbar.</p>
 
@@ -75,11 +77,22 @@
   </li>
   <li>differenziert zwischen der Gabe von Geschenken sowie Gegengeschenken und dem Handeln</li>
   <li>vergleicht die Einheimischen der verschiedenen Inseln miteinander</li>
-  <li>versucht den <em>Nationalcharakter</em> der jeweiligen Nation zu erfassen</li>
   <li>
-    <p>neben seinem ethnographischen und mitweltlichen Blick, interpretiert er seine Beobachtungen und versucht sie in einen historischen Rahmen einzuordnen.</p>
+    <p>versucht den <em>Nationalcharakter</em> der jeweiligen Nation zu erfassen</p>
   </li>
-  <li>nimmt zum Teil einen anti ethnozentrischen Blick ein.</li>
+  <li>
+    <p>neben seinem ethnographischen und mitweltlichen Blick, interpretiert er seine Beobachtungen und versucht sie durch seine eigenen Erfahrungen einzuordnen.</p>
+  </li>
+  <li>Objektivität wird gestärkt durch: Beobachtungen und Berichten von Einheimischen, der Besatzung und andere Reiseberichte.
+    <ul>
+      <li>Dadurch belegt oder widerlegt er seine Beobachtungen</li>
+    </ul>
+  </li>
+  <li>
+    <p>nimmt zum Teil einen anti ethnozentrischen Blick ein.</p>
+
+    <blockquote zitat="https://www.destatis.de/DE/PresseService/Presse/Pressemitteilungen/2012/07/PD12_255_12411.html"> „daß unsre Bekantschaft den Einwohnern der Süd-See durchaus nachtheilig [sic!] gewesen ist“  (Forster1778: 0211:160). </blockquote>
+  </li>
 </ul>
 
 <h3 id="die-grenzen-von-forsters-ethnographischem-handeln">Die Grenzen von Forsters ethnographischem Handeln</h3>
@@ -91,6 +104,7 @@
       <li>Forster kann die ethnozentrische Sichtweise nicht vollständig ablegen (vgl. Heidemann ), unternahm jedoch den Versuch.</li>
     </ul>
   </li>
+  <li>Subjektivität: seine Beschreibungen enthalten Gedanken und Gefühle (vgl. Steiner 1977: 18).</li>
 </ul>
 
 <p><strong>Quellen:</strong></p>
@@ -103,8 +117,9 @@
 
 <p><img src="/Textstelle1.png" alt="Textstelle 1" title="Textstelle 1" /></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
-</code></pre></div></div>
+<blockquote>
+  <p>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)</p>
+</blockquote>
 
 <h3 id="textstelle-2-0382327-0383328">Textstelle 2 <strong><a href="https://www.deutschestextarchiv.de/book/view/forster_reise01_1778?p=382">0382:327-0383:328</a></strong></h3>
 
@@ -112,7 +127,10 @@
 
 <p><img src="/Textstelle2.png" alt="Textstelle 2" title="Textstelle 1" /></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023) 
-</code></pre></div></div>
+<blockquote>
+  <p>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)</p>
+</blockquote>
 
-<h5 id="quelle-gius-evelyn-ua-2023-catma-700-httpscatmade-catma-zuletzt-abgerufen-30092023">Quelle: Gius, Evelyn u.a. (2023). CATMA (7.0.0). <strong><a href="https://catma.de/">https://catma.de/</a></strong> CATMA (zuletzt abgerufen: 30.09.2023).</h5>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Welche Annotationskategorien wurden annotiert?]]></summary></entry></feed>
+<p><strong>Quellen:</strong></p>
+
+<p>Gius, Evelyn u.a. (2023). CATMA (7.0.0). <strong><a href="https://catma.de/">https://catma.de/</a></strong> CATMA (zuletzt abgerufen: 30.09.2023).</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Welche Annotationskategorien wurden annotiert?]]></summary></entry></feed>

@@ -14,9 +14,7 @@ Die Tags und Subtags: **verhalten**, *Sprache*, **Gabe**, **handel**, **Forsters
 
 ![Textstelle 1](/Textstelle1.png "Textstelle 1") 
 
-    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
-
-
+>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 
@@ -28,9 +26,10 @@ Die Tags und Subtags: *Nation*, **zeremonie/ritual**, **aussehen** sowie *Interp
 
 ![Textstelle 2](/Textstelle2.png "Textstelle 1")
 
-    Screenshot aus der Benutzeroberfläche von Catma (Gius 2023) 
+>Screenshot aus der Benutzeroberfläche von Catma (Gius 2023) 
 
 
 
+**Quellen:** 
 
-##### Quelle: Gius, Evelyn u.a. (2023). CATMA (7.0.0). **[https://catma.de/](https://catma.de/)** CATMA (zuletzt abgerufen: 30.09.2023). 
+Gius, Evelyn u.a. (2023). CATMA (7.0.0). **[https://catma.de/](https://catma.de/)** CATMA (zuletzt abgerufen: 30.09.2023).
