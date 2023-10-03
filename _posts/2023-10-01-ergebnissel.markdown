@@ -47,7 +47,8 @@ Tags | Annotationen |
 
 ![Tagset](/TagPathliste.png "Tags") 
 
-    ##### Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
+
+#### Screenshot aus der Benutzeroberfläche von Catma (Gius 2023)
 
 
 ## 3. Die inhaltliche Analyse

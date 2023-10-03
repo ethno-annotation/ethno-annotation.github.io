@@ -8,7 +8,7 @@ image:
 
 **Welche Annotationskategorien wurden annotiert?** 
 
-#### Textstelle eins **[0246:193-0248:195](https://www.deutschestextarchiv.de/book/view/forster_reise01_1778?p=246)**
+#### Textstelle 1 **[0246:193-0248:195](https://www.deutschestextarchiv.de/book/view/forster_reise01_1778?p=246)**
 
 Die Tags und Subtags: **verhalten**, *Sprache*, **Gabe**, **handel**, **Forsters-Subjektvitität** sowie **zeremonie/ritual**, **Fortbewegungsmittel** wurden in diesem Beispiel annotiert. 
 
@@ -21,9 +21,12 @@ Die Tags und Subtags: **verhalten**, *Sprache*, **Gabe**, **handel**, **Forsters
 
 
 
+### Textstelle 2 **[0382:327-0383:328](https://www.deutschestextarchiv.de/book/view/forster_reise01_1778?p=382)**
+
+Die Tags und Subtags: *Nation*, **zeremonie/ritual**, **aussehen** sowie *Interpretation*, **Vergleich**, *Ethnische Gruppe* wurden in diesem Beispiel annotiert. 
 
 
-![Textstelle 2](Textstelle2/.png "Textstelle 1") 
+![Textstelle 2](/Textstelle2.png "Textstelle 1") 
 
 
 
