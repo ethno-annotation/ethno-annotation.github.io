@@ -80,15 +80,20 @@ Die inhaltliche Analyse der Annotation ergab, dass die entstanden Annotationskat
 
 - Die Auswertung des Tags **Teilnehmende Beobachtung** hat ergeben, dass Forster diese ethnographische Methode nicht in allen Aspekten umgesetzen konnte. Er hat lediglich einen Versuch der teilnehmden Beobachtung gestartet. 
 - ebenfalls wurde der ethnozentrischen Gehalt seines Reiseberichts durch die Verwendung der Begriffe des *Wilden* und der *Barbarei* operationalsiert. 
-    - Forster kann die ethnozentrische Sichtweise nicht vollständig ablegen (vgl. Heidemann ), unternahm jedoch den Versuch. 
+    - Forster kann die ethnozentrische Sichtweise nicht vollständig ablegen (vgl. Hauser-Schäublin 2009: 93), unternahm jedoch den Versuch (vgl. Mattig 2019: 72). 
 - Subjektivität: seine Beschreibungen enthalten Gedanken und Gefühle (vgl. Steiner 1977: 18). 
     
+## 4. Leitfaden zur Kennzeichnung der Annotationskategorien im Text 
 
-
-
-
+Der Leitfaden wurde erstellt, um die verschieden Tags und Subtags im Text der Masterarbeit hervorzuheben. Damit konnte eine Übersichtlichkeit der vielen Ebenen des Tagsets gewahrt werden.
 
 
 **Quellen:** 
 
-Gius, Evelyn u.a. (2023). CATMA (7.0.0). **[https://catma.de/](https://catma.de/)** CATMA (zuletzt abgerufen: 30.09.2023).
+Forster, Georg (1778): „Johann Reinhold Forster's [...] Reise um die Welt. Band 1. 1778“. In: *Deutsches Textarchiv*. Elektronische Ressource: [https://www.deutschestextarchiv.de/forster_reise01_1778](https://www.deutschestextarchiv.de/forster_reise01_1778) (zuletzt abgerufen: 30.09.2023).
+
+Gius, Evelyn u.a. (2023). CATMA (7.0.0). **[https://catma.de/](https://catma.de/)** (zuletzt abgerufen: 30.09.2023).
+
+Hauser-Schäubli, Brigitta: (2009): „Forsters Beobachtungen in der Südsee“. In: Frings, J. (Hg.): *James Cook und die Entdeckung der Südsee*.  In: Frings, J. (Hg.): James Cook und die Entdeckung der Südsee. (Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn, 28. August 2009 bis 28. Februar 2010. Museum für Völkerkunde, Wien, 10. Mai bis 13. September 2010. Historisches Museum Bern, 7. Oktober 2010 bis 13. Februar 2011, anlässlich der von der Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn, veranstalteten Ausstellung ‘James Cook und die Entdeckung der Südsee’).München: Hirmer, 93-97. 
+
+Mattig, Ruprecht (2019): *Wilhelm von Humboldt als Ethnograph. Bildungsforschung im Zeitalter der Aufklärung*. Weinheim: Beltz Juventa.
